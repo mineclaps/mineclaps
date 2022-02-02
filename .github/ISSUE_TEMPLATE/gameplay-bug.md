@@ -1,6 +1,6 @@
 ---
 name: Gameplay Bug
-about: 'Issue that actively impacts gameplay for users'
+about: 'Report an issue that actively impacts gameplay for users'
 title: ''
 labels: 'gameplay-bug'
 assignees: ''
@@ -16,6 +16,7 @@ Survival
 
 This issue gives me dirt
 
+
 ### What is the expected outcome?
 
 I receive diamonds upon purchase.
@@ -24,6 +25,7 @@ I receive diamonds upon purchase.
 ### What is the actual outcome?
 
 I receive dirt upon purchase.
+
 
 ### Steps to reproduce
 <!-- Please list the steps you took to produce this bug, so we can also produce it too. -->
