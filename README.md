@@ -13,4 +13,4 @@ Use the template that best suits your thought.
 For example: If it's a typo, report it as a bug.
 But, if it's another word altogether that should be used? put it in as a suggestion.
 
-## [Click me to create a card!](https://google.com)
+## [Click me to create a card!](https://github.com/mineclaps/mineclaps/issues/new/choose)
