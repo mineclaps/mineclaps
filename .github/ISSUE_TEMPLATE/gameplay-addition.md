@@ -10,25 +10,24 @@ assignees: ''
 
 ### Server of origin
 <!-- What server would this mechanic be added to? Survival? Skyblock? Global? -->
-Survival
+<replace me>
 
+  
 ### Rundown
 
-A command that can be executed with /boom.
-The general idea is that it should blow everything up!
+<replace me>
 
 
 ### How would this benefit players?
 
-It allows players to sing the national anthem:
-"BOOM BOOM BOOM BOOM, I WANT YOU IN MY ROOM!"
-Also, everybody loves explosions, and raymond.
+<replace me>
 
 
 ### How would the community react if it were added?
 
-I expect everybody to be very, very happy if this was added.
+<replace me>
 
 
 ### Other information
 <!-- If you have any other information that you feel would help, please add it below -->
+<replace me>
