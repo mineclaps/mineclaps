@@ -10,32 +10,35 @@ assignees: ''
 
 ### Server of origin
 <!-- What server does the issue effect? Survival? Skyblock? Global? -->
-Survival
+<replace me>
 
 ### Rundown
 
-This issue gives me dirt
+<replace me>
 
 
 ### What is the expected outcome?
 
-I receive diamonds upon purchase.
+<replace me>
 
 
 ### What is the actual outcome?
 
-I receive dirt upon purchase.
+<replace me>
 
 
 ### Steps to reproduce
 <!-- Please list the steps you took to produce this bug, so we can also produce it too. -->
 
-1. Load into the game
-2. Visit the survival server
-3. Go to the 'diamonds' shop
-4. Buy 'diamonds'
+  <replace me>
+1. one
+2. two
+3. three
+etc. etc.
+  <replace me>
 
 
 
 ### Other information
 <!-- If you have any other information that you feel would help, please add it below -->
+<replace me>
