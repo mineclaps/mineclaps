@@ -9,7 +9,7 @@ assignees: ''
 <!-- Before continuing, please make sure that your suggestion hasn't already been submitted. -->
 
 ### Server of origin
-<!-- What server would your feature be added to? Survival? Skyblock? Global? -->
+<!-- What server would this mechanic be added to? Survival? Skyblock? Global? -->
 Survival
 
 ### Rundown
