@@ -10,27 +10,28 @@ assignees: ''
 
 ### Server of origin
 <!-- What server would this existing mechanic be changed on? Survival? Skyblock? Global? -->
-Survival
+<replace me>
 
 ### Rundown
 
-I think running should be 10 blocks per second
+<replace me>
 
 
 ### What has prompted you to suggest this change?
 
-Honestly, i want to run wayyyy faster
+<replace me>
 
 
 ### How would this benefit players?
 
-People will be able to zoooom around the map
+<replace me>
 
 
 ### How would the community react if this was changed?
 
-I expect everybody to be very, very happy if this was changed.
+<replace me>
 
 
 ### Other information
 <!-- If you have any other information that you feel would help, please add it below -->
+<replace me>
