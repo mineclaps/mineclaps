@@ -10,28 +10,23 @@ assignees: ''
 
 ### Server of origin
 <!-- What server would this existing mechanic be changed on? Survival? Skyblock? Global? -->
-<replace me>
+< type your answer here, without the brackets >
 
 ### Rundown
-
-<replace me>
+<!-- Provide a breif description of the change you'd like to be made. -->
+< type your answer here, without the brackets >
 
 
 ### What has prompted you to suggest this change?
-
-<replace me>
+<!-- Tell us what happened that led to you to suggest this change. -->
+< type your answer here, without the brackets >
 
 
 ### How would this benefit players?
-
-<replace me>
-
-
-### How would the community react if this was changed?
-
-<replace me>
+<!-- Tell us what happened that led to you to suggest this change. -->
+< type your answer here, without the brackets >
 
 
 ### Other information
 <!-- If you have any other information that you feel would help, please add it below -->
-<replace me>
+< type your answer here, without the brackets >
