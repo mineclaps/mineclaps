@@ -10,23 +10,24 @@ assignees: ''
 
 ### Server of origin
 <!-- What server would this mechanic be removed from? Survival? Skyblock? Global? -->
-<replace me>
+< type your answer here, without the brackets >
 
+  
 ### Rundown
+<!-- Provide a breif description of the mechanic you'd like to be removed. -->
+< type your answer here, without the brackets >
 
-<replace me>
+  
+### What has prompted you to suggest this change?
+<!-- Tell us what happened that led to you to suggest this change. -->
+< type your answer here, without the brackets >
 
 
 ### How would this benefit players?
-
-<replace me>
-
-
-### How would the community react if it were removed?
-
-<replace me>
+<!-- Tell us what happened that led to you to suggest this change. -->
+< type your answer here, without the brackets >
 
 
 ### Other information
 <!-- If you have any other information that you feel would help, please add it below -->
-<replace me>
+< type your answer here, without the brackets >
