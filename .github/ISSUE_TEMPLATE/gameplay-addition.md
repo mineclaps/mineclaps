@@ -14,20 +14,15 @@ assignees: ''
 
   
 ### Rundown
-
+<!-- Provide a breif description of the gameplay mechanic. -->
 <replace me>
 
 
 ### How would this benefit players?
-
+<!-- Tell us how this would improve gameplay. -->
 <replace me>
 
-
-### How would the community react if it were added?
-
-<replace me>
-
-
+  
 ### Other information
-<!-- If you have any other information that you feel would help, please add it below -->
+<!-- If you have any other information that you feel would help, please add it below. -->
 <replace me>
