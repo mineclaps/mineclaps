@@ -10,19 +10,19 @@ assignees: ''
 
 ### Server of origin
 <!-- What server would this mechanic be added to? Survival? Skyblock? Global? -->
-<replace me>
+< type your answer here, without the brackets >
 
   
 ### Rundown
 <!-- Provide a breif description of the gameplay mechanic. -->
-<replace me>
+< type your answer here, without the brackets >
 
 
 ### How would this benefit players?
 <!-- Tell us how this would improve gameplay. -->
-<replace me>
+< type your answer here, without the brackets >
 
   
 ### Other information
 <!-- If you have any other information that you feel would help, please add it below. -->
-<replace me>
+< type your answer here, without the brackets >
