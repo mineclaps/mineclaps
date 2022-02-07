@@ -18,7 +18,7 @@ assignees: ''
 < type your answer here, without the brackets >
 
 
-### How would this benefit players?
+### How would this benefit gameplay?
 <!-- Tell us how this would improve gameplay. -->
 < type your answer here, without the brackets >
 
