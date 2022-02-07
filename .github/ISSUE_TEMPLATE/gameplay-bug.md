@@ -33,7 +33,7 @@ assignees: ''
 1. < replace me >
 2. < replace me >
 3. < replace me >  
-< etc. etc. >
+< add as many steps as you see fit. >
 
 
 
