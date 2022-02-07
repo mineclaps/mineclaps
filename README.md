@@ -14,3 +14,4 @@ For example: If it's a typo, report it as a bug.
 But, if it's another word altogether that should be used? put it in as a suggestion.
 
 ## [Click me to create a card!](https://github.com/mineclaps/mineclaps/issues/new/choose)
+Development: [Check out the board!](https://github.com/orgs/mineclaps/projects/1)
