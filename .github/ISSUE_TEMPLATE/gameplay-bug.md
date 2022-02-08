@@ -9,7 +9,7 @@ assignees: ''
 <!-- Before continuing, please make sure that your bug hasn't already been submitted. -->
 
 ### Server of origin
-<!-- What server does the issue effect? Survival? Skyblock? Global? -->
+<!-- What server does the issue affect? Survival? Skyblock? Global? -->
 < type your answer here, without the brackets >
 
   
