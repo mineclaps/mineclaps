@@ -14,7 +14,7 @@ assignees: ''
 
   
 ### Rundown
-<!-- Provide a breif description of the issue you're facing. -->
+<!-- Provide a brief description of the issue you're facing. -->
 < type your answer here, without the brackets >
 
   
