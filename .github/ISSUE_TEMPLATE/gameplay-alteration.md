@@ -13,7 +13,7 @@ assignees: ''
 < type your answer here, without the brackets >
 
 ### Rundown
-<!-- Provide a breif description of the change you'd like to be made. -->
+<!-- Provide a brief description of the change you'd like to be made. -->
 < type your answer here, without the brackets >
 
 
