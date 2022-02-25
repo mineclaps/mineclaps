@@ -14,7 +14,7 @@ assignees: ''
 
   
 ### Rundown
-<!-- Provide a breif description of the gameplay mechanic. -->
+<!-- Provide a brief description of the gameplay mechanic. -->
 < type your answer here, without the brackets >
 
 
