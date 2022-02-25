@@ -14,7 +14,7 @@ assignees: ''
 
   
 ### Rundown
-<!-- Provide a breif description of the mechanic you'd like to be removed. -->
+<!-- Provide a brief description of the mechanic you'd like to be removed. -->
 < type your answer here, without the brackets >
 
   
